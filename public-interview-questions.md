@@ -1,8 +1,10 @@
 # Questions for public interviews
 
 *The following are a series of questions that worked really well for the Women in the Wikimedia movement conversation series. These questions have a double goal: 
-1. To help participants reflect on the issues of gender and participation in the open web. 
-*2. To portray women's work in a way that honours their dedication, and helps them to connect to other women working in the open web.*
+
+*1. To help participants reflect on the issues of gender and participation in the open web.*
+
+*2. To portray women's work in a way that honours their dedication, and helps them to connect to other women working in the  open web.*
 
 *See a question missing? Add it here!*
 
