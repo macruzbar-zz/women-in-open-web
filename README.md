@@ -16,6 +16,10 @@ These elements are key to creating a safe environment for newcomers to feel empo
 ## How can you get involved?
 
 - Sign up to organize a virtual or in-person event. 
-- Review the questions and offer feedback or add new questions you think are relevant. 
-- Review the organizer's kit and offer feedback. 
+- Review [the questions](/public-interview-questions.md) and offer feedback or add new questions you think are relevant. 
+- Review the [organizer's guide](https://meta.wikimedia.org/wiki/Community_Engagement/Women_in_the_Wikimedia_movement:_Conversations_with_communities/Organizer%27s_guide) and offer feedback. 
+
+## Background
+- Learn about the first conversation series, *[Women in the Wikimedia movement.](https://meta.wikimedia.org/wiki/Community_Engagement/Women_in_the_Wikimedia_movement:_Conversations_with_communities)* In this page, you can watch the videos of the conversations, and also read [the report](https://meta.wikimedia.org/wiki/Community_Engagement/Women_in_the_Wikimedia_movement:_Conversations_with_communities/Report) with the key takeaways. 
+- Read the paper *[Women in the Wikimedia movement: Roles, culture and opportunities](https://link.medium.com/9tP4bcrhlR)*. This article points to relevant research addressing the gender gap in Wikimedia in various aspects.
 
